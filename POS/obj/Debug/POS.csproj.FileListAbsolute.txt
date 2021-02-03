@@ -1,0 +1,13 @@
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\POS.exe.config
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\POS.exe
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\POS.pdb
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\Guna.UI.dll
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.UserControl1.resources
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.exe
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.pdb
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.UserControl2.resources
